@@ -1,0 +1,8 @@
+/.idea/
+*.db
+*.log
+/target
+/bin
+/specific-directory/*.txt
+/reports
+/node_modules
